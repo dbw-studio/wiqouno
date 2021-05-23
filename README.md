@@ -1,3 +1,3 @@
 # wiqouno
 
-This is Wiqouno product.
+This is Wiqouno README.md.
