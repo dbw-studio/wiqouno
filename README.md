@@ -1,3 +1,3 @@
-wiqouno 把前面的#刪除
+# wiqouno
 
-This is Wiqouno README.md. ><
+This is an event page of Wiqouno.
